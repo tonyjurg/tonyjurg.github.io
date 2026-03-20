@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonyjurg
 - 👀 I’m interested in Technology, Theology and combining them.
 - 🌱 I’m Research Master Digital Humanities and Biblical Studies ([VU Amsterdam](https://vu.nl/en))
-- 💞️ I’m looking to collaborate on [Text-Fabric](https://github.com/annotation/text-fabric)
+- 💞️ I’m looking to collaborate on [Text-Fabric](https://github.com/annotation/text-fabric) / [Context-Fabric](https://context-fabric.ai/)
   
 - <a href="https://orcid.org/0000-0002-0343-1346"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> https://orcid.org/0000-0002-0343-1346</a>
 
@@ -27,4 +27,5 @@ Project |  Status / DOI | Description
 Project |  Status / DOI | Description
 --- | --- | ---
 [Parashot](https://tonyjurg.github.io/Parashot) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  | Digital Humanies tools used for the weekly Parasha (Torah portion of the week)
+[Cost of Tabernacle](https://github.com/tonyjurg/cost_of_tabernacle) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)| [Interactive page](https://tonyjurg.github.io/cost_of_tabernacle/) using real time data to estimate current cost of the biblical tabernacle
 [TasmotaTimer](https://tonyjurg.github.io/TasmotaTimer/) | [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_NC-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) | User friendly timer app using node.js to control Tasmota powered smartplugs
