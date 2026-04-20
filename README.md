@@ -3,7 +3,8 @@
 - 🌱 I’m Research Master Digital Humanities and Biblical Studies ([VU Amsterdam](https://vu.nl/en))
 - 💞️ I’m looking to collaborate on [Text-Fabric](https://github.com/annotation/text-fabric) / [Context-Fabric](https://context-fabric.ai/)
   
-- <a href="https://orcid.org/0000-0002-0343-1346"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /> https://orcid.org/0000-0002-0343-1346</a>
+- [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-0343-1346) ORCID:
+[0000-0002-0343-1346](https://orcid.org/0000-0002-0343-1346)
 
 ### Text-Fabric and related projects
 
